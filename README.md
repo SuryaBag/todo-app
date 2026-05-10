@@ -17,7 +17,7 @@ A simple and responsive Todo List application built using HTML, CSS, and JavaScr
 
 ## 📸 Screenshot
 
-![App Screenshot](assets/screenshot.png).
+![App Screenshot](assets/screenshot.png)
 
 ## 🌐 Live Demo
 
