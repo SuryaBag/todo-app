@@ -1,6 +1,6 @@
 # 📝 To-Do List App
 
-A simple and responsive Todo List application built using HTML, CSS, and JavaScript.
+A simple Todo List application built using HTML, CSS, and JavaScript.
 
 ## 🚀 Features
 
